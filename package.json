@@ -1,5 +1,6 @@
 {
   "name": "background-generator",
+  "homepage": "https://pranayadna.github.io/background-generator",
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
@@ -7,5 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
